@@ -66,7 +66,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chari997/music-video-streamer1)
 
 ## VPS Deployment 📡
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
@@ -88,10 +88,6 @@ python3 main.py # run the bot.
 # continue the host with screen or anything else, thanks for reading.
 ```
 
-# Credits 💖
-
-- [OWNER ❤](https://github.com/god-of-karmas) ``Dev``
-- [contact in telegram](https://t.me/cl_me_logesh) 
 
 ### Support & Updates
 <a href="https://t.me/logi_channel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
