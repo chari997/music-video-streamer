@@ -57,7 +57,12 @@
         "OWNER_NAME": {
             "description": " enter your username without '@' !",
             "required": true,
-            "value": "cl_me_logesh"
+            "value": "chari_x"
+        },
+        "MONGO_URI": {
+            "description": "mongo URL, Get it from mongodb.com",
+            "value": ""
+
         },
         "ALIVE_NAME": {
             "description": " Enter your name ! ",
