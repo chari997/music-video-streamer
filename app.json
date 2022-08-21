@@ -61,6 +61,7 @@
         },
         "MONGO_URI": {
             "description": "mongo URL, Get it from mongodb.com",
+            "required": true,
             "value": ""
 
         },
