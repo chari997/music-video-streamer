@@ -4,7 +4,6 @@ ffmpeg-python
 py-tgcalls
 pyrogram==1.4.16
 youtube-search-python
-yt-dlp
 youtube_dl
 lyricsgenius
 speedtest-cli
