@@ -11,7 +11,7 @@ async def start_bot():
     await user.join_chat("jollyathal")
     await user.join_chat("jollyathall")
     await idle()
-    print("[INFO]: STOPPING BOT & USERBOT")
+    print("[INFO]: STOPPING BOT & BOT")
     await bot.stop()
 
 loop = asyncio.get_event_loop()
