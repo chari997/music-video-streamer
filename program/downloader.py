@@ -13,13 +13,9 @@ import aiofiles
 import aiohttp
 import requests
 import wget
-
 from pyrogram import Client, filters
 from pyrogram.errors import FloodWait, MessageNotModified
 from pyrogram.types import Message
-from youtube_search import YoutubeSearch
-
-
 from config import BOT_USERNAME as bn
 from driver.decorators import humanbytes
 from driver.filters import command, other_filters
