@@ -4,8 +4,6 @@ ffmpeg-python
 py-tgcalls
 pyrogram==1.4.16
 youtube-search-python
-youtube_dl
-yt_dlp
 lyricsgenius
 youtube-search
 python-dotenv
